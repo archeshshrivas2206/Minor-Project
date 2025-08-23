@@ -1,0 +1,16 @@
+-->Brillient:
+            76: Development of AI/ML based solution for detection of face-swap based deep fake videos
+            106: AI tool/mobile app for Indian Sign language(ISL) generator from audio-visual content in English/Hindi to      ISL content and vice-versa
+            107: Indian sign language to text/speech translation
+            4  : Conversational Image Recognition Chatbo
+            139 Creating a Framework for Static Analysis of
+                Vulnerabilities in Android Applications
+
+->Runner-ups: 
+                
+                15
+                19
+                28
+                80
+                139
+                142
